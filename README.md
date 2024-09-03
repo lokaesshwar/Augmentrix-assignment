@@ -6,4 +6,6 @@ Assignment Submission for Augmentrix (Taskify - MERN To-Do App)
 
 Source code: https://docs.google.com/document/d/1PPCjdLNTqA3TZrXL_AJDcNXpUGv9SFso-uwQfq7jvI8/edit?usp=sharing
 
+Sample Image: https://drive.google.com/file/d/1jTSumCJlx1U8tA95D9otRVab5o95BlMX/view?usp=sharing
+
 
